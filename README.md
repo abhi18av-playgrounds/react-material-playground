@@ -1,3 +1,16 @@
+## This project relies on the following 
+
+- `create-react-app`
+- `material-ui`
+- `storybook`
+- `react-test-library`
+- `esdoc`
+
+## Websites
+
+- Project website: https://abhi18av.github.io/react-material-playground/
+- Docs website: https://abhi18av.github.io/react-material-playground/docs/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
