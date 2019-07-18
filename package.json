@@ -5,8 +5,10 @@
   "dependencies": {
     "@material-ui/core": "^4.2.1",
     "@material-ui/icons": "^4.2.1",
+    "babel-plugin-relay": "^2.0.0-rc.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-relay": "^5.0.0",
     "react-router-dom": "^5.0.1",
     "react-scripts": "3.0.1"
   },
