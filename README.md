@@ -15,6 +15,12 @@
 - Project website: https://abhi18av.github.io/react-material-playground/
 - Docs website: https://abhi18av.github.io/react-material-playground/docs/
 
+## ToDo
+
+- CircleCI
+- Netlify
+- Heroku (later) 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
