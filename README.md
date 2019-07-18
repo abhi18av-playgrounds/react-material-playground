@@ -9,6 +9,7 @@
 - `esdoc`
 - `json-server`
 - `graphql-faker`
+- `styled-components`
 
 ## Websites
 
