@@ -47,6 +47,7 @@
     "esdoc-integrate-test-plugin": "^1.0.0",
     "esdoc-jsx-plugin": "^1.0.0",
     "esdoc-standard-plugin": "^1.0.0",
+    "graphql-faker": "^2.0.0-rc.1",
     "json-server": "^0.15.0",
     "storybook-addon-material-ui": "^0.9.0-alpha.20"
   }
