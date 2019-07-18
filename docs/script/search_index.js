@@ -1,5 +1,11 @@
 window.esdocSearchIndex = [
   [
+    "react-material/src/app.js~app",
+    "function/index.html#static-function-App",
+    "<span>App</span> <span class=\"search-result-import-path\">react-material/src/App.js</span>",
+    "function"
+  ],
+  [
     "react-material/src/serviceworker.js~register",
     "function/index.html#static-function-register",
     "<span>register</span> <span class=\"search-result-import-path\">react-material/src/serviceWorker.js</span>",
@@ -10,6 +16,12 @@ window.esdocSearchIndex = [
     "function/index.html#static-function-unregister",
     "<span>unregister</span> <span class=\"search-result-import-path\">react-material/src/serviceWorker.js</span>",
     "function"
+  ],
+  [
+    "",
+    "test-file/src/App.test.js.html#lineNumber5",
+    "renders without crashing",
+    "test"
   ],
   [
     "src/.external-ecmascript.js~array",
@@ -294,9 +306,33 @@ window.esdocSearchIndex = [
     "external"
   ],
   [
+    "src/app.js",
+    "file/src/App.js.html",
+    "src/App.js",
+    "file"
+  ],
+  [
+    "src/app.test.js",
+    "test-file/src/App.test.js.html",
+    "src/App.test.js",
+    "testFile"
+  ],
+  [
+    "src/index.js",
+    "file/src/index.js.html",
+    "src/index.js",
+    "file"
+  ],
+  [
     "src/serviceworker.js",
     "file/src/serviceWorker.js.html",
     "src/serviceWorker.js",
+    "file"
+  ],
+  [
+    "src/stories/index.js",
+    "file/src/stories/index.js.html",
+    "src/stories/index.js",
     "file"
   ]
 ]

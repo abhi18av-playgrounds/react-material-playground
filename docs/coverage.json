@@ -1,8 +1,15 @@
 {
   "coverage": "0%",
-  "expectCount": 5,
+  "expectCount": 6,
   "actualCount": 0,
   "files": {
+    "src/App.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        5
+      ]
+    },
     "src/serviceWorker.js": {
       "expectCount": 5,
       "actualCount": 0,
