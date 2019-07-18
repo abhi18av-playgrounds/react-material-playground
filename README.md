@@ -4,6 +4,7 @@
 - `material-ui`
 - `storybook`
 - `react-test-library`
+- `react-router`
 - `esdoc`
 
 ## Websites
