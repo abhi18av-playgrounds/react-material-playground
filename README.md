@@ -7,6 +7,8 @@
 - `react-router`
 - `relay`
 - `esdoc`
+- `json-server`
+- `graphql-faker`
 
 ## Websites
 
